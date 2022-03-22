@@ -1,0 +1,18 @@
+.bg-dark{
+    background-color: #030507!important;
+}
+.form-control-dark{
+    background-color: #030507;
+    border-color: #030507;
+}
+.form-control-dark::placeholder { 
+    color: #FCFAF8; 
+}
+.btn btn-light{
+    background-color: #030507;
+    border-color:#FC6401 ;
+}
+.me-3{
+    width: 45px!important;
+    height: auto!important;
+}

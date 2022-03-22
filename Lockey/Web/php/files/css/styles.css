@@ -1,0 +1,24 @@
+.bg-dark{
+    background-color: #FC6401!important;
+}
+.form-control-dark{
+    background-color: #FC6401;
+    border-color: #FC6401;
+}
+.form-control-dark::placeholder { 
+    color: #FCFAF8; 
+}
+.btn btn-light{
+    background-color: #FCFAF8;
+    border-color:#FCFAF8 ;
+}
+.me-3{
+    width: 45px!important;
+    height: auto!important
+}
+.background background-overlay{
+    background-image: url("../stuff/img/workk.jpg") ;
+}
+.element.style{
+    background-image: url(https://cube.webuildthemes.com/assets/images/services-1.jpg);
+}

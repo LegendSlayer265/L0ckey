@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3840 2160" style="enable-background:new 0 0 3840 2160;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:#FCFAF8;stroke:#FCFAF8;stroke-miterlimit:10;}
+	.st2{fill:#FC6401;stroke:#FCFAF8;stroke-miterlimit:10;}
+</style>
+<g id="Capa_1">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1587.5" y1="775" x2="2590.5" y2="775">
+		<stop  offset="0" style="stop-color:#FC6401"/>
+		<stop  offset="0.1413" style="stop-color:#FC6401"/>
+		<stop  offset="1" style="stop-color:#FC6401"/>
+	</linearGradient>
+	<path class="st0" d="M2491,1276.5h-804c-54.95,0-99.5-44.55-99.5-99.5V373c0-54.95,44.55-99.5,99.5-99.5h804
+		c54.95,0,99.5,44.55,99.5,99.5v804C2590.5,1231.95,2545.95,1276.5,2491,1276.5z"/>
+</g>
+<g id="Capa_2">
+	<ellipse class="st1" cx="2092.5" cy="516" rx="131" ry="131.5"/>
+	<path class="st1" d="M2118.16,858.24l98.79-301.33c5.72-17.46-7.28-35.41-25.66-35.41h-197.57c-18.37,0-31.38,17.95-25.66,35.41
+		l98.79,301.33C2074.97,883.02,2110.03,883.02,2118.16,858.24z"/>
+	<circle class="st1" cx="2093.5" cy="1001.5" r="51"/>
+	<ellipse class="st2" cx="2093.01" cy="1001.13" rx="31.51" ry="31.63"/>
+	<path class="st1" d="M2130.3,1117.5h-72.6c-18.34,0-33.2-14.86-33.2-33.2v-49.6c0-18.34,14.86-33.2,33.2-33.2h72.6
+		c18.34,0,33.2,14.86,33.2,33.2v49.6C2163.5,1102.64,2148.64,1117.5,2130.3,1117.5z"/>
+	<g id="Capa_3">
+	</g>
+</g>
+</svg>
